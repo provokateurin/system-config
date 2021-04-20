@@ -11,6 +11,7 @@ AddPackage alsa-utils
 AddPackage aspell-de
 AddPackage aspell-en
 AddPackage bzip2
+AddPackage cups
 AddPackage curl
 AddPackage dmidecode
 AddPackage f2fs-tools
@@ -54,16 +55,18 @@ AddPackage p7zip
 AddPackage pciutils
 AddPackage pigz
 AddPackage pv
+AddPackage pwgen
 AddPackage rsync
 AddPackage squashfs-tools
 AddPackage sshfs
 AddPackage system-config-printer
 AddPackage tar
-AddPackage texlive-latexextra
 AddPackage texlive-core
+AddPackage texlive-latexextra
 AddPackage tree
 AddPackage unarchiver
 AddPackage usbutils
+AddPackage v4l2loopback-dkms
 AddPackage vkd3d
 AddPackage wget
 AddPackage wine
@@ -71,4 +74,5 @@ AddPackage xclip
 AddPackage xmlto
 AddPackage xz
 AddPackage yq
+AddPackage yubikey-touch-detector
 AddPackage zip

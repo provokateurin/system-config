@@ -5,12 +5,15 @@ AddPackage --foreign etcher-bin
 AddPackage --foreign heroic-games-launcher-bin
 AddPackage --foreign imagewriter
 AddPackage --foreign multimc5
+AddPackage --foreign puddletag-git
 AddPackage --foreign slack-desktop
 AddPackage --foreign spotify
+AddPackage --foreign zoom
 AddPackage ark
 AddPackage audacity
 AddPackage dolphin
 AddPackage dolphin-plugins
+AddPackage elisa
 AddPackage filezilla
 AddPackage firefox-developer-edition
 AddPackage gimp

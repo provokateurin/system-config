@@ -22,6 +22,7 @@ AddPackage arduino
 AddPackage arduino-avr-core
 AddPackage arm-none-eabi-gcc
 AddPackage ccache
+AddPackage clang
 AddPackage cmake
 AddPackage cpio
 AddPackage diffutils
@@ -36,7 +37,11 @@ AddPackage glibc
 AddPackage go
 AddPackage jdk8-openjdk
 AddPackage jq
+AddPackage lib32-llvm
+AddPackage lib32-llvm-libs
 AddPackage libicns
+AddPackage llvm
+AddPackage llvm-libs
 AddPackage meson
 AddPackage mingw-w64-gcc
 AddPackage mysql-workbench
@@ -45,6 +50,7 @@ AddPackage nodejs
 AddPackage npm
 AddPackage patchutils
 AddPackage python
+AddPackage python-mako
 AddPackage python-pip
 AddPackage python-virtualenv
 AddPackage python-wheel

@@ -2,6 +2,7 @@
 AddPackage --foreign airshipper
 AddPackage --foreign discord-canary
 AddPackage --foreign etcher-bin
+AddPackage --foreign google-earth-pro
 AddPackage --foreign heroic-games-launcher-bin
 AddPackage --foreign imagewriter
 AddPackage --foreign multimc5

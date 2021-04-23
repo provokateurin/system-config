@@ -18,6 +18,7 @@ AddPackage f2fs-tools
 AddPackage flatpak
 AddPackage fuseiso
 AddPackage gamemode
+AddPackage gnome-desktop
 AddPackage gnuplot
 AddPackage gvfs
 AddPackage gvfs-afc
